@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\unity\\SubwaySurfers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07ACF78C-7383-EEA3-221F-737D6EC2DC3F}|Assembly-CSharp.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\unity\\subwaysurfers\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ACF78C-7383-EEA3-221F-737D6EC2DC3F}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ACF78C-7383-EEA3-221F-737D6EC2DC3F}|Assembly-CSharp.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\unity\\subwaysurfers\\assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ACF78C-7383-EEA3-221F-737D6EC2DC3F}|Assembly-CSharp.csproj|solutionrelative:assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\unity\\SubwaySurfers\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\unity\\SubwaySurfers\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:55:29.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\unity\\SubwaySurfers\\Assets\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Camera.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\unity\\SubwaySurfers\\Assets\\Camera.cs",
+              "RelativeToolTip": "Assets\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:55:14.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+repository "SubwaySurfers@alvaroooofg@cloud"
+  path "/"
+    br "/main"
+    co "/main"
