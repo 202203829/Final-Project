@@ -30,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         Vector3 moveDirection = new Vector3(1, 0, 0);
-        Vector3 moveDirectionCrouching = new Vector3(1, 0, 0);
+        Vector3 moveDirectionCrouching = new Vector3(0, -1, 0);
         if (!isCrouching)
         {
             transform.Translate(moveDirection * forwardSpeed * Time.deltaTime);
